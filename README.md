@@ -55,7 +55,6 @@ Durante o desenvolvimento do aplicativo pude aprofundar meus conhecimentos com o
 <h2 id="licenca">📝 Licença</h2>
 
 - Este projeto está sob a licença [MIT](https://github.com/JosManoel/Bootcamp-MRV_iFood-Clone/blob/main/LICENSE).
-- Todos as imagens e sons utilizados no game foram retirados do pacote de assets gratuítos KENNEY.
 
 ***
 
