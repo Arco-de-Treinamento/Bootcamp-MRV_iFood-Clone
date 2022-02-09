@@ -62,4 +62,4 @@ Durante o desenvolvimento do aplicativo pude aprofundar meus conhecimentos com o
 
   👋 Feito por [JosManoel](https://github.com/JosManoel) com ☕ , 🎧 e 💻.
 
-</div>
+</div> 
